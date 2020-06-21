@@ -1,7 +1,7 @@
 const urls = [
     "http://aurora-discord-bot-hehe.glitch.me/ping",
     "http://snfdev.glitch.me",
-    "http://pikabot-discord.glitch.me",
+    "http://p74y.glitch.me",
     "http://giveawayboat-discord.glitch.me",
     "http://snowboats.glitch.me",
     "http://elixirbot.glitch.me",
