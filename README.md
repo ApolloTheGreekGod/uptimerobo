@@ -2,6 +2,6 @@
 This is a Uptimerobo!
 
 # Adding your url
-- fork the repo
-- add your url in `url.js`
-- create a pull request
+- Fork the repo
+- Add your url in `url.js` (one url per pull request)
+- Create a pull request
