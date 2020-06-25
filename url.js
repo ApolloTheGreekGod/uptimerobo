@@ -6,7 +6,8 @@ const urls = [
     "http://snowboats.glitch.me",
     "http://elixirbot.glitch.me",
     "http://bestest-bot.glitch.me",
-    "http://zyrouge-bot-list.glitch.me/ping",
+    "https://botlist.zyrouge.gq/ping",
+    "https://paste.zyrouge.gq",
     "https://api.zyrouge.gq",
     "https://uttermost-pinto-wheel.glitch.me"
     "https://oxidebot-1.glitch.me"
