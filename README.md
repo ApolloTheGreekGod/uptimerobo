@@ -7,4 +7,4 @@ This is a Uptimerobo!
 - Create a pull request
 
 # How does this run?
-This is ran in heroku free.
+This is ran using heroku free plan.
