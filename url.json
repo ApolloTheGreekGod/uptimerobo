@@ -1,4 +1,4 @@
-const urls = [
+[
     "http://aurora-discord-bot-hehe.glitch.me/ping",
     "http://snfdev.glitch.me",
     "http://p74y.glitch.me",
@@ -9,8 +9,6 @@ const urls = [
     "https://botlist.zyrouge.gq/ping",
     "https://paste.zyrouge.gq",
     "https://api.zyrouge.gq",
-    "https://uttermost-pinto-wheel.glitch.me"
+    "https://uttermost-pinto-wheel.glitch.me",
     "https://oxidebot-1.glitch.me"
-];
-
-module.exports = urls;
+]
