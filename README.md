@@ -1,5 +1,5 @@
 # uptimerobo
-This is a Uptimerobo!
+Simple URL Pinger (Pings every 1 minute)
 
 # Adding your url
 - Fork the repo
